@@ -1,5 +1,7 @@
 # Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation
 
+> [Project Page](https://sangyeopyeo.github.io/Nickel_and_Diming_Your_GAN/)
+
 This is the project page branch that Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation.
 
 
